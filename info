@@ -1,0 +1,125 @@
+{
+  "uuid": "d212ed2fbd51e0b2701367187f369eea",
+  "path": "Offline/Audio%20connector%20breakout",
+  "name": "Audio connector breakout",
+  "content": "",
+  "created_at": "2021-12-02 14:12:26",
+  "updated_at": "2021-12-02 19:25:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "35251e285dd6bbf42b686a1fe1a3c3ef",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "eb55c2b79b43334b2a08b8fee24e4582",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "07af7331a6784d5a9063fde0de90c3a8": 1,
+        "07f61cfe981de2ff587010f47e6f99e6": 1,
+        "e6111d24602a42a188b48e44b2dc6ef4": 6,
+        "72bee10c1bbf41e0878512fd7f96694b": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "PJ-3136-3A",
+          1,
+          "AUDIO-TH_PJ-3136-3A",
+          "J1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C707248",
+            "BOM_Manufacturer": "Korean Hroparts Elec",
+            "BOM_Manufacturer Part": "PJ-3136-3A",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "329d9fc33d7b491896b5629103547b39",
+            "uuid": "07af7331a6784d5a9063fde0de90c3a8"
+          }
+        ],
+        [
+          "WJ301V-5.0-3P",
+          1,
+          "CONN-TH_2P-P5.00_WJ301V-5.00-3P",
+          "J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ301V-5.0-3P",
+            "BOM_Supplier Part": "C8483",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "a7d2420f6c2b4997b4d8e04626336bf6",
+            "uuid": "07f61cfe981de2ff587010f47e6f99e6"
+          }
+        ],
+        [
+          "5001",
+          6,
+          "TEST-TH_BD2.54-P1.39",
+          "J3,J4,J5,J6,J7,J8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C238122",
+            "BOM_Manufacturer": "Keystone",
+            "BOM_Manufacturer Part": "5001",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fe8a73afa2ae45ce8c4aaa975ecc2ae0",
+            "uuid": "e6111d24602a42a188b48e44b2dc6ef4"
+          }
+        ],
+        [
+          "Banana Plug",
+          2,
+          "BANANA PLUG",
+          "J9,J10",
+          {
+            "BOM_Manufacturer": "Multicomp",
+            "BOM_Manufacturer Part": "24.247.2",
+            "BOM_Supplier": "Element14",
+            "BOM_Supplier Part": "169-8951",
+            "puuid": "15273e2a844c43919d34f8bc468b8924",
+            "uuid": "72bee10c1bbf41e0878512fd7f96694b"
+          }
+        ]
+      ],
+      "updateTime": 1638433521,
+      "createTime": 1638428957,
+      "histories": [],
+      "created_at": "2021-12-02 18:09:17",
+      "updated_at": "2021-12-02 19:25:21"
+    },
+    {
+      "uuid": "68a9e0d1df9d4178d3930ea5fb5efd46",
+      "puuid": "d212ed2fbd51e0b2701367187f369eea",
+      "title": "PCB_Audio connector breakout",
+      "filename": "PCB_Audio connector breakout.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a7d2420f6c2b4997b4d8e04626336bf6": 1,
+        "329d9fc33d7b491896b5629103547b39": 1,
+        "fe8a73afa2ae45ce8c4aaa975ecc2ae0": 6,
+        "15273e2a844c43919d34f8bc468b8924": 2
+      },
+      "BOM": [],
+      "updateTime": 1638433377,
+      "createTime": 1638429449,
+      "histories": [],
+      "created_at": "2021-12-02 18:17:29",
+      "updated_at": "2021-12-02 19:22:57"
+    }
+  ],
+  "sort": [],
+  "title": "Audio connector breakout",
+  "foldername": "Audio connector breakout",
+  "schfilename": "Audio connector breakout.json",
+  "schfilemtime": 1638433521372
+}
